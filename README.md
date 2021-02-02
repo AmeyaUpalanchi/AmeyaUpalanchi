@@ -2,8 +2,7 @@
 
 ## I'm a Project Enthusiast, Developer, and Life long learner!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play table tennis and guitar / drums
+- ⚡ 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
